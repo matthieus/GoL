@@ -6,5 +6,7 @@ Implementation and tests in Scala.
 There is also a very crude visualisation part in Swing.
 To launch it, first install the Typesafe stack from http://typesafe.com/stack/download
 Then run:
+```
 $ sbt
 > run
+```
